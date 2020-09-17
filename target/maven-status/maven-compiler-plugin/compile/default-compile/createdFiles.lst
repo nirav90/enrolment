@@ -1,0 +1,6 @@
+com/challenge/enrolment/EnrolmentApplication.class
+com/challenge/enrolment/controller/EnrolmentController.class
+com/challenge/enrolment/domain/Enrollee.class
+com/challenge/enrolment/repository/EnrolmentRepository.class
+com/challenge/enrolment/service/EnrolmentService.class
+com/challenge/enrolment/SwaggerConfig.class
