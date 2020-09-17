@@ -24,10 +24,11 @@ To run this application please follow below steps.
 update mySql database properties in application.properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/enrolment
-spring.datasource.username=#######
-spring.datasource.password=#######
+spring.datasource.username=
+spring.datasource.password=
 
 Connect to MySql server and create database :
+  
 mysql -u root -p
 mysql> CREATE DATABASE enrolment;
 
